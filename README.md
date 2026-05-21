@@ -10,8 +10,8 @@ Trying to learn TypeScript and build some small tools.
 
 Still learning 😄
 
-# Day 1
-learning promises
-add test wallet script
-still not working
-fix rpc issue
+### Day 1
+- learning promises
+- add test wallet script
+- still not working
+- fix rpc issue
