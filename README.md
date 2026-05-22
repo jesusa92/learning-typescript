@@ -15,3 +15,6 @@ Still learning 😄
 - add test wallet script
 - still not working
 - fix rpc issue
+
+### Day 2
+- Researching blockchain scalability concepts.
