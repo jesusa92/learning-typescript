@@ -18,3 +18,4 @@ Still learning 😄
 
 ### Day 2
 - Researching blockchain scalability concepts.
+- Reviewing backend logic
