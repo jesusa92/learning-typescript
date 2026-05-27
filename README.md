@@ -20,3 +20,4 @@ Still learning 😄
 - Researching blockchain scalability concepts.
 - Reviewing backend logic
 - Improving repo layout
+- Refining documentation
