@@ -21,3 +21,4 @@ Still learning 😄
 - Reviewing backend logic
 - Improving repo layout
 - Refining documentation
+- Refining headings
