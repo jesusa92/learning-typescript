@@ -22,3 +22,6 @@ Still learning 😄
 - Improving repo layout
 - Refining documentation
 - Refining headings
+
+### Continue
+- Improving readability
