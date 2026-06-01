@@ -25,3 +25,4 @@ Still learning 😄
 
 ### Continue
 - Improving readability
+- Researching DAOs
