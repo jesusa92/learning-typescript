@@ -26,3 +26,4 @@ Still learning 😄
 ### Continue
 - Improving readability
 - Researching DAOs
+- Studying token supply
