@@ -27,3 +27,4 @@ Still learning 😄
 - Improving readability
 - Researching DAOs
 - Studying token supply
+- Studying rollups again
