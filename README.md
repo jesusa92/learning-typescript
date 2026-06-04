@@ -28,3 +28,4 @@ Still learning 😄
 - Researching DAOs
 - Studying token supply
 - Studying rollups again
+- Reviewing blockchain data
