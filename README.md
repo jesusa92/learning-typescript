@@ -29,3 +29,4 @@ Still learning 😄
 - Studying token supply
 - Studying rollups again
 - Reviewing blockchain data
+- Studying governance cases
