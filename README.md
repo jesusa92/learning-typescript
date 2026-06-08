@@ -30,3 +30,4 @@ Still learning 😄
 - Studying rollups again
 - Reviewing blockchain data
 - Studying governance cases
+- Writing technical notes
