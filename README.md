@@ -32,3 +32,4 @@ Still learning 😄
 - Studying governance cases
 - Writing technical notes
 - Enhancing clarity
+- Adding research
