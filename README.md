@@ -31,3 +31,4 @@ Still learning 😄
 - Reviewing blockchain data
 - Studying governance cases
 - Writing technical notes
+- Enhancing clarity
