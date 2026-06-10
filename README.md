@@ -33,3 +33,4 @@ Still learning 😄
 - Writing technical notes
 - Enhancing clarity
 - Adding research
+- Improving docs
