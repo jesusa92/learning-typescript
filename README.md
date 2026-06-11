@@ -34,3 +34,4 @@ Still learning 😄
 - Enhancing clarity
 - Adding research
 - Improving docs
+- Adding notes
