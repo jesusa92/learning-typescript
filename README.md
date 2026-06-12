@@ -35,3 +35,4 @@ Still learning 😄
 - Adding research
 - Improving docs
 - Adding notes
+- Adding documentation
