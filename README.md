@@ -36,3 +36,4 @@ Still learning 😄
 - Improving docs
 - Adding notes
 - Adding documentation
+- Adding notes
