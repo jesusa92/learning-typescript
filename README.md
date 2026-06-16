@@ -37,3 +37,4 @@ Still learning 😄
 - Adding notes
 - Adding documentation
 - Adding notes
+- Researching Web3 development tools.
