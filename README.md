@@ -39,3 +39,4 @@ Still learning 😄
 - Adding notes
 - Researching Web3 development tools.
 - Reviewing open source repositories.
+- Learning about commit history tracking.
