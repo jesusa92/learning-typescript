@@ -40,3 +40,4 @@ Still learning 😄
 - Researching Web3 development tools.
 - Reviewing open source repositories.
 - Learning about commit history tracking.
+- Adding new learning milestones.
