@@ -41,3 +41,4 @@ Still learning 😄
 - Reviewing open source repositories.
 - Learning about commit history tracking.
 - Adding new learning milestones.
+- Reviewing Git best practices.
