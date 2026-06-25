@@ -43,3 +43,4 @@ Still learning 😄
 - Adding new learning milestones.
 - Reviewing Git best practices.
 - Adding clearer documentation sections.
+- Documenting daily development routine.
