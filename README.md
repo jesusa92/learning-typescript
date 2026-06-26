@@ -44,3 +44,4 @@ Still learning 😄
 - Reviewing Git best practices.
 - Adding clearer documentation sections.
 - Documenting daily development routine.
+- Researching blockchain use cases.
