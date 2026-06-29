@@ -45,3 +45,4 @@ Still learning 😄
 - Adding clearer documentation sections.
 - Documenting daily development routine.
 - Researching blockchain use cases.
+- Reviewing distributed systems basics.
