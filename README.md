@@ -23,7 +23,7 @@ Still learning 😄
 - Refining documentation
 - Refining headings
 
-### Continue
+### June
 - Improving readability
 - Researching DAOs
 - Studying token supply
@@ -47,3 +47,6 @@ Still learning 😄
 - Researching blockchain use cases.
 - Reviewing distributed systems basics.
 - Refining learning roadmap.
+
+### July
+- Learning how smart contracts interact with frontends.
