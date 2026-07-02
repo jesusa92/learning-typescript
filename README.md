@@ -50,3 +50,4 @@ Still learning 😄
 
 ### July
 - Learning how smart contracts interact with frontends.
+- Improving documentation readability again.
