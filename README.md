@@ -52,3 +52,4 @@ Still learning 😄
 - Learning how smart contracts interact with frontends.
 - Improving documentation readability again.
 - Researching decentralized identity systems.
+- Studying inflationary vs deflationary tokens.
