@@ -53,3 +53,4 @@ Still learning 😄
 - Improving documentation readability again.
 - Researching decentralized identity systems.
 - Studying inflationary vs deflationary tokens.
+- Improving long term project planning.
