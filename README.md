@@ -54,3 +54,4 @@ Still learning 😄
 - Researching decentralized identity systems.
 - Studying inflationary vs deflationary tokens.
 - Improving long term project planning.
+- Reviewing smart contract deployment checklist.
