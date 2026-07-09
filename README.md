@@ -55,3 +55,4 @@ Still learning 😄
 - Studying inflationary vs deflationary tokens.
 - Improving long term project planning.
 - Reviewing smart contract deployment checklist.
+- Improving clarity in DeFi notes.
