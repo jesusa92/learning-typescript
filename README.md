@@ -56,3 +56,4 @@ Still learning 😄
 - Improving long term project planning.
 - Reviewing smart contract deployment checklist.
 - Improving clarity in DeFi notes.
+- Improving documentation flow again.
