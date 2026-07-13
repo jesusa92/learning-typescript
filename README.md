@@ -57,3 +57,4 @@ Still learning 😄
 - Reviewing smart contract deployment checklist.
 - Improving clarity in DeFi notes.
 - Improving documentation flow again.
+- Exploring REST API integration concepts.
