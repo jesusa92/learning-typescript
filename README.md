@@ -58,3 +58,4 @@ Still learning 😄
 - Improving clarity in DeFi notes.
 - Improving documentation flow again.
 - Exploring REST API integration concepts.
+- Learning about transaction batching.
