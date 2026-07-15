@@ -59,3 +59,4 @@ Still learning 😄
 - Improving documentation flow again.
 - Exploring REST API integration concepts.
 - Learning about transaction batching.
+- Studying network latency impacts.
