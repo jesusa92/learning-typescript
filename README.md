@@ -60,3 +60,4 @@ Still learning 😄
 - Exploring REST API integration concepts.
 - Learning about transaction batching.
 - Studying network latency impacts.
+- Improving blockchain research notes.
