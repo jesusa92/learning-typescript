@@ -61,3 +61,4 @@ Still learning 😄
 - Learning about transaction batching.
 - Studying network latency impacts.
 - Improving blockchain research notes.
+- Improving project milestone clarity.
