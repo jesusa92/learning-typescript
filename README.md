@@ -62,3 +62,4 @@ Still learning 😄
 - Studying network latency impacts.
 - Improving blockchain research notes.
 - Improving project milestone clarity.
+- Strengthening understanding of smart contract logic.
