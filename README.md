@@ -63,3 +63,4 @@ Still learning 😄
 - Improving blockchain research notes.
 - Improving project milestone clarity.
 - Strengthening understanding of smart contract logic.
+- Improving markdown formatting skills.
