@@ -64,3 +64,4 @@ Still learning 😄
 - Improving project milestone clarity.
 - Strengthening understanding of smart contract logic.
 - Improving markdown formatting skills.
+- Writing technical learning notes.
