@@ -66,3 +66,4 @@ Still learning 😄
 - Improving markdown formatting skills.
 - Writing technical learning notes.
 - Practicing small incremental updates.
+- Tracking Web3 progress daily.
