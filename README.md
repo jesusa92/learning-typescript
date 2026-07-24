@@ -67,3 +67,4 @@ Still learning 😄
 - Writing technical learning notes.
 - Practicing small incremental updates.
 - Tracking Web3 progress daily.
+- Exploring decentralized governance concepts.
