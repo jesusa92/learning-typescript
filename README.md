@@ -69,3 +69,4 @@ Still learning 😄
 - Tracking Web3 progress daily.
 - Exploring decentralized governance concepts.
 - Reviewing transaction lifecycle.
+- Learning about CI/CD concepts.
