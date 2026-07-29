@@ -70,3 +70,4 @@ Still learning 😄
 - Exploring decentralized governance concepts.
 - Reviewing transaction lifecycle.
 - Learning about CI/CD concepts.
+- Learning about tokenomics design.
