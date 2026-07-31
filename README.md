@@ -71,3 +71,4 @@ Still learning 😄
 - Reviewing transaction lifecycle.
 - Learning about CI/CD concepts.
 - Learning about tokenomics design.
+- Understanding digital signatures.
