@@ -72,3 +72,6 @@ Still learning 😄
 - Learning about CI/CD concepts.
 - Learning about tokenomics design.
 - Understanding digital signatures.
+
+### August
+- Reviewing differences between Layer 1 and Layer 2.
