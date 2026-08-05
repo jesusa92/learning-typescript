@@ -76,3 +76,4 @@ Still learning 😄
 ### August
 - Reviewing differences between Layer 1 and Layer 2.
 - Studying blockchain data structures.
+- Learning about node synchronization process.
