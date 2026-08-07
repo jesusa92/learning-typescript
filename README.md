@@ -78,3 +78,4 @@ Still learning 😄
 - Studying blockchain data structures.
 - Learning about node synchronization process.
 - Improving repository transparency.
+- Exploring gas estimation strategies.
