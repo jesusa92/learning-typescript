@@ -79,3 +79,4 @@ Still learning 😄
 - Learning about node synchronization process.
 - Improving repository transparency.
 - Exploring gas estimation strategies.
+- Exploring decentralized finance innovations.
