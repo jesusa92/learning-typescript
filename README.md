@@ -80,3 +80,4 @@ Still learning 😄
 - Improving repository transparency.
 - Exploring gas estimation strategies.
 - Exploring decentralized finance innovations.
+- Exploring full stack Web3 architecture.
