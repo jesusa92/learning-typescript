@@ -83,3 +83,4 @@ Still learning 😄
 - Exploring full stack Web3 architecture.
 - Refining Web3 learning approach.
 - Writing study log
+- Studying validators
