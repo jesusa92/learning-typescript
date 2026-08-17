@@ -84,3 +84,4 @@ Still learning 😄
 - Refining Web3 learning approach.
 - Writing study log
 - Studying validators
+- Tracking blockchain research
