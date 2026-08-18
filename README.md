@@ -85,3 +85,4 @@ Still learning 😄
 - Writing study log
 - Studying validators
 - Tracking blockchain research
+- Studying EVM internals
