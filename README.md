@@ -87,3 +87,4 @@ Still learning 😄
 - Tracking blockchain research
 - Studying EVM internals
 - Learning about testing flow
+- Studying API integration
