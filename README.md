@@ -86,3 +86,4 @@ Still learning 😄
 - Studying validators
 - Tracking blockchain research
 - Studying EVM internals
+- Learning about testing flow
