@@ -88,3 +88,4 @@ Still learning 😄
 - Studying EVM internals
 - Learning about testing flow
 - Studying API integration
+- Learning testing basics
