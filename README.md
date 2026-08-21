@@ -89,3 +89,4 @@ Still learning 😄
 - Learning about testing flow
 - Studying API integration
 - Learning testing basics
+- Exploring DeFi security
