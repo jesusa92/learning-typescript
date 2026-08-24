@@ -90,3 +90,4 @@ Still learning 😄
 - Studying API integration
 - Learning testing basics
 - Exploring DeFi security
+- Reviewing governance systems
