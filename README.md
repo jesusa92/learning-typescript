@@ -92,3 +92,4 @@ Still learning 😄
 - Exploring DeFi security
 - Reviewing governance systems
 - Reviewing governance systems
+- Studying transaction trace
