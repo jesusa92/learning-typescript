@@ -93,3 +93,4 @@ Still learning 😄
 - Reviewing governance systems
 - Reviewing governance systems
 - Studying transaction trace
+- Writing markdown notes
