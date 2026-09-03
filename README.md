@@ -94,3 +94,6 @@ Still learning 😄
 - Reviewing governance systems
 - Studying transaction trace
 - Writing markdown notes
+
+### September
+- Refining formatting
