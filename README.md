@@ -98,3 +98,4 @@ Still learning 😄
 ### September
 - Refining formatting
 - Updating roadmap
+- Improving markdown
