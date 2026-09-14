@@ -100,3 +100,4 @@ Still learning 😄
 - Updating roadmap
 - Improving markdown
 - Updating summaries
+- Exploring Layer2
