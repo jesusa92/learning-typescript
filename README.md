@@ -101,3 +101,4 @@ Still learning 😄
 - Improving markdown
 - Updating summaries
 - Exploring Layer2
+- Studying token supply
