@@ -102,3 +102,4 @@ Still learning 😄
 - Updating summaries
 - Exploring Layer2
 - Studying token supply
+- Studying bridges
