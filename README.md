@@ -103,3 +103,4 @@ Still learning 😄
 - Exploring Layer2
 - Studying token supply
 - Studying bridges
+- Exploring testing tools
