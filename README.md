@@ -104,3 +104,4 @@ Still learning 😄
 - Studying token supply
 - Studying bridges
 - Exploring testing tools
+- Reviewing blockchain data
