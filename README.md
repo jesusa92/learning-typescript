@@ -105,3 +105,4 @@ Still learning 😄
 - Studying bridges
 - Exploring testing tools
 - Reviewing blockchain data
+- Studying governance cases
