@@ -106,3 +106,6 @@ Still learning 😄
 - Exploring testing tools
 - Reviewing blockchain data
 - Studying governance cases
+
+### October
+- Exploring version control basics.
