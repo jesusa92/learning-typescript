@@ -109,3 +109,4 @@ Still learning 😄
 
 ### October
 - Exploring version control basics.
+- Organizing project structure properly.
