@@ -113,3 +113,4 @@ Still learning 😄
 - Improving markdown formatting skills.
 - Improving documentation clarity.
 - Improving repository organization.
+- Reviewing Git best practices.
