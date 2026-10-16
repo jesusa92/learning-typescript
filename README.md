@@ -114,3 +114,4 @@ Still learning 😄
 - Improving documentation clarity.
 - Improving repository organization.
 - Reviewing Git best practices.
+- Researching smart contract deployment flow.
