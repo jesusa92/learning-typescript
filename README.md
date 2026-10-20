@@ -116,3 +116,4 @@ Still learning 😄
 - Reviewing Git best practices.
 - Researching smart contract deployment flow.
 - Refining project description.
+- Learning about tokenomics design.
