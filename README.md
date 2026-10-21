@@ -117,3 +117,4 @@ Still learning 😄
 - Researching smart contract deployment flow.
 - Refining project description.
 - Learning about tokenomics design.
+- Learning about network nodes.
