@@ -118,3 +118,4 @@ Still learning 😄
 - Refining project description.
 - Learning about tokenomics design.
 - Learning about network nodes.
+- Refining learning roadmap.
