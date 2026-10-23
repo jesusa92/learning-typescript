@@ -119,3 +119,4 @@ Still learning 😄
 - Learning about tokenomics design.
 - Learning about network nodes.
 - Refining learning roadmap.
+- Reviewing differences between Layer 1 and Layer 2.
