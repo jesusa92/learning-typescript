@@ -121,3 +121,4 @@ Still learning 😄
 - Refining learning roadmap.
 - Reviewing differences between Layer 1 and Layer 2.
 - Improving documentation readability again.
+- Learning about zero knowledge proofs basics.
