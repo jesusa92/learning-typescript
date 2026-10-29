@@ -123,3 +123,4 @@ Still learning 😄
 - Improving documentation readability again.
 - Learning about zero knowledge proofs basics.
 - Improving long term project planning.
+- Improving markdown bullet structures.
