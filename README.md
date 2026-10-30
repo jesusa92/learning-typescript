@@ -124,3 +124,4 @@ Still learning 😄
 - Learning about zero knowledge proofs basics.
 - Improving long term project planning.
 - Improving markdown bullet structures.
+- Improving clarity in DeFi notes.
