@@ -125,3 +125,6 @@ Still learning 😄
 - Improving long term project planning.
 - Improving markdown bullet structures.
 - Improving clarity in DeFi notes.
+
+### November
+- Adding additional roadmap updates.
