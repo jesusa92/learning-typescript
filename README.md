@@ -128,3 +128,4 @@ Still learning 😄
 
 ### November
 - Adding additional roadmap updates.
+- Reviewing blockchain logging patterns.
