@@ -130,3 +130,4 @@ Still learning 😄
 - Adding additional roadmap updates.
 - Reviewing blockchain logging patterns.
 - Reviewing authentication mechanisms.
+- Reviewing liquidation mechanisms.
